@@ -10,8 +10,7 @@
   align-items: center;
 }
 .header .header__icon {
-  font-size: 24px;
-  font-weight: 600;
+  font-size: 20px;
   margin-left: 20px;
   cursor: pointer;
 }
